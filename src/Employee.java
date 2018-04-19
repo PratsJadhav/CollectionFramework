@@ -3,6 +3,7 @@ public class Employee {
 
 	String name;
 String pass;
+String sirname;
 	int age;
 	Employee(String name, int age)
 	{
