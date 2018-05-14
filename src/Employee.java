@@ -11,8 +11,5 @@ String sirname;
 		this.age = age;
 	}
 	
-	public void test()
-	{
-		System.out.println("testing done successfully");
-	}
+	
 }

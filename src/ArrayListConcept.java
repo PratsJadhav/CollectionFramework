@@ -17,6 +17,7 @@ public class ArrayListConcept {
 		//allow random access
 		//synchronized
 		ArrayList array = new ArrayList();
+		array.add(1);
 		array.add(4);
 		array.add(3);
 		//System.out.println(""+array.size());
@@ -51,8 +52,8 @@ public class ArrayListConcept {
 		while(iterator.hasNext())
 		{
 			Employee emp1 = iterator.next();
-			System.out.print(""+emp1.name);
-			System.out.println(" and age "+emp1.age);
+			System.out.print("new update"+emp1.name);
+			System.out.println("  "+emp1.age);
 		}
 	}
 }
