@@ -13,7 +13,7 @@ public class LinkedListConcept {
 		System.out.println(""+ll);
 		ll.addFirst("first");
 		ll.addLast("ENDD");
-		System.out.println(""+ll.getFirst());
+	
 		ll.set(0, "Pre-frst");
 		System.out.println(""+ll);
 		/*
@@ -23,5 +23,8 @@ public class LinkedListConcept {
 	    	System.out.println(""+iterator.next());
 	    }
 	    */
+		
+		
+		
 	}
 }
