@@ -17,9 +17,9 @@ public class ArrayListConcept {
 		//allow random access
 		//synchronized
 		ArrayList array = new ArrayList();
-		array.add(1);
-		array.add(4);
-		array.add(3);
+		//array.add(1);
+		//array.add(4);
+	//	array.add(3);
 		//System.out.println(""+array.size());
 		array.add(0, 10);
 		//System.out.println(""+array.get(1));

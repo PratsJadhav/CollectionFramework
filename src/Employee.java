@@ -7,8 +7,8 @@ String sirname;
 	int age;
 	
 	
-	public static void tes()
+	public int tf()
 	{
-		System.out.println("sdfsdj");
+		return 1;
 	}
 }
