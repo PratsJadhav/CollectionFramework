@@ -11,5 +11,8 @@ String sirname;
 		this.age = age;
 	}
 	
-	
+	public void dd()
+	{
+		
+	}
 }
