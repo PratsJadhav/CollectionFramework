@@ -1,7 +1,7 @@
 
 public class Employee {
 
-	String name;
+String name;
 String pass;
 String sirname;
 	int age;
@@ -9,5 +9,10 @@ String sirname;
 	{
 		this.name = name;
 		this.age = age;
+	}
+	
+	public void test()
+	{
+		System.out.println("testing done successfully");
 	}
 }
